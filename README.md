@@ -22,6 +22,10 @@ How has the number of incidents changed over time?
 - The vast majority of wildlife strikes resulted in no flight impact (88.55%). It was then followed by Precautionary Landing (6.18%), Other (2.43%), Aborted Takeoff (2.36%), and Engine Shutdown (0.46%).
 - The preciptation and visibilty at the time of each incident was also recorded. It would be interesting to note whether those have any correlation with flight impact of wildlife strike.
  
+ 
+ <img width="651" alt="Screen Shot 2021-08-14 at 5 47 01 PM" src="https://user-images.githubusercontent.com/81276857/129463570-86021da9-2c8c-4caa-aa34-87230784faf9.png">
 
-
-
+ -Interesting things to note about this graph is that there is a peak each year around August. There was not much increase from 1990 to 2015 during the non peak months but there was a huge increase in the peaks of each year.
+ 
+ 
+ 
